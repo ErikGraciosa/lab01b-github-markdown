@@ -7,18 +7,18 @@
 1) Change directory `cd` was used to move into the repo folder.
 1) In the appropriate directories `mkdir` was used to create directories `src` and `assets`
 1) `touch` was used to create the files in the appropriate directories.
-    1)`style.css`
-    1)`app.js`
-    1)`index.html`
-    1)`greeting.md`
+    * `style.css`
+    * `app.js`
+    * `index.html`
+    * `greeting.md`
 
 # Random Arbitrary other examples
 
 ## Bullet List
-*Star 1
-*Star 2
-    *Sub-star 1
-    *Sub-star 2
+* Star 1
+* Star 2
+    * Sub-star 1
+    * Sub-star 2
 
 ## A Table 
 
@@ -29,6 +29,7 @@
 |  3 | c  | f  | i  | l  |
 
 **Stars make bold text**
+
 _Underscores make italics_
 
 # Header Big
